@@ -1,4 +1,4 @@
-# sillychat
+# Sillychat
 Secure web chatting, discussion, conversational app</br></br>
 
 
